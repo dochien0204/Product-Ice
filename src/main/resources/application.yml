@@ -1,0 +1,7 @@
+mailServer:
+  host: smtp.gmail.com
+  port: 587
+  email: doxuanchienh02042002@gmail.com
+  password: 021304122002
+  protocol: smtp
+  isSSL: false
